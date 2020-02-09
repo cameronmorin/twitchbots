@@ -1,2 +1,0 @@
-Chat Bot TODO:
-- Create a queue for commands in order to not spam the chat and get removed from chat
